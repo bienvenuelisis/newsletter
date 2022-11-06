@@ -1,0 +1,29 @@
+---
+layout: page
+title: Souscrire à la newsletter
+permalink: "/subscribe/"
+comments: false
+---
+
+<div>
+    <form action="{{site.subscribeUrl}}" method="POST">
+        <p class="mb-4">Toute l'actualité technologique et autour des meilleurs outils de développement, dans votre
+            boîte mail tous les lundi matin.</p>
+        <p class="mb-4"> On envoie pas de spam, promis.</p>
+        <div style="border: 1px solid rgb(218, 215, 215); padding: 15px">
+            <div class="form-group row">
+                <div class="col-md-6">
+                    <input class="form-control" type="text" name="lastname" placeholder="Nom*" required>
+                </div>
+                <div class="col-md-6">
+                    <input class="form-control" type="text" name="firstname" placeholder="Prénoms*" required>
+                </div>
+            </div>
+            <br>
+            <input class="form-control" type="email" name="email" placeholder="Votre adresse mail*" required>
+            <br>
+            <input class="btn btn-dark" type="submit" value="Souscrire">
+        </div>
+    </form>
+</div>
+

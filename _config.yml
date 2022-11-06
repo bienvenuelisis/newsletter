@@ -1,0 +1,50 @@
+title: "Newsletter Apps & Techs"
+email: agbavonbienvenu@gmail.com
+timezone: "Africa/Lome"
+baseurl: ""
+#baseurl: "https://newsletter.theresilient.dev/"
+permalink: "/:year/:month/:day"
+logo: 'assets/icons/logo.png'
+favicon: 'assets/icons/favicon.ico'
+author: bienvenuelisis
+paginate: 6
+locale: fr_FR
+lang: fr_FR
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: "compressed"
+ganalytics: G-MT5EH2XXJ2
+
+# Authors
+authors:
+  bienvenuelisis:
+    name: bienvenuelisis
+    display_name: Kokou AGBAVON
+    avatar: 'assets/images/me.jpg'
+    email: agbavonbienvenu@gmail.com
+    web: https://theresilient.dev/
+    twitter: https://twitter.com/agbavonkokou
+    description: "Software engineer from Togo. Humanist. Africa future optimist. Child of internet."
+
+# Social
+social:
+  twitter: https://twitter.com/agbavonkokou
+  github: https://github.com/bienvenuelisis/newsletter
+  linkedin: https://www.linkedin.com/in/bienvenu-agbavon/
+  hashnode: https://blog.theresilient.dev/
+  portoflolio: https://kokou.theresilient.dev/
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
