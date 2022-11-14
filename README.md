@@ -25,6 +25,7 @@ Pour cela, vous pouvez :
 ### 2022
 
 - **Novembre**
+  - [06-13 : TikTop lance TikTok Shop, Meta licencie 11.000 employés, Signal intègre les stories, l'Ougandan lance son premier statellite, Zoom ajoute un service mail et un agenda dans ses applications.](https://newsletter.theresilient.dev/2022/11/14)
   - [31-05 : Twitter va facturer pour la pastille bleue, et licencie 50% de ses employés, les jeux Android débarquent sur PC, WhatsApp & les communautés, DALL-E disponible en beta & divers.](https://newsletter.theresilient.dev/2022/11/07)
 
 - **Octobre**
