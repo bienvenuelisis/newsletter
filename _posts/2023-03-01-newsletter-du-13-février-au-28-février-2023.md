@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Le manque de diversité dans le monde de la technologie, induit à des produits moins inclusifs."
-image: assets/images/posts/mars23/inclusion.webp
+image: assets/images/posts/mars23/workforce_diversity.jpg
 author: bienvenuelisis
 ---
 ## Dossier : Diversité dans le monde de la Tech
