@@ -86,7 +86,7 @@ Déjà, en première année nous étions 5 filles, 5 garçons, la différence ne
 
 Mais un beau jour, je me suis dis : **ce sont mes camarades et s'il y'a un truc qui cloche dans les cours c'est à eux je devrais m'adresser premièrement**. J'ai fait le premier et je n'ai pas regrettée cela. Les autres étaient prêts à m'aider tant qu'ils trouvaient de la motivation chez moi,. Même dans les quelques moments de découragement, mes camarades étaient toujours là. Je me suis sentie utile pour eux, et déjà cette différence que je ressentais avait disparu.
 Le domaine de la technologie est un domaine où on pourrait compter plus sur les filles, mais cela dépends aussi de l'environnement dans laquelle elles sont placées.
-Avoir assez de garçons autour de moi, me booste à donner le meilleur de moi même et à me démarquer d'eux.
+Avoir assez de garçons autour de moi, me booste à donner le meilleur de moi même et à me démarquer d'eux. Faire partie des communautés, comme celle de TDev m'as aussi beaucoup aidé à prendre conscience de mon importance et du rôle que je pouvais jouer dans la Tech.
 
 [Fidèle NIKABOU - DESIGNER UI/UX - DÉVELOPPEUR FRONT END](https://www.linkedin.com/in/fid%C3%A8le-nikabou-b79732174/)
 ![Fidèle NIKABOU - DESIGNER UI/UX - DÉVELOPPEUR FRONT END](https://media.licdn.com/dms/image/D4E03AQEcpV_rhPbT7g/profile-displayphoto-shrink_800_800/0/1674144437248?e=1683763200&v=beta&t=XP0wgVeOHuXDBNuqcxagyXQ6HBNg3NiQpoHR-s0ktcU)
