@@ -72,7 +72,7 @@ C'est tout un combat pour trouver un équilibre mais par la grâce de Dieu aujou
 
 Je ne me compare plus à un homme, je ne cherche pas être un homme parce que je suis dans un milieu masculin parce que la différence ça apporte une perception différente, une nouvelle saveur, ce qui est un plus. Je ne suis en compétition qu'avec moi même et je m'évalue uniquement en fonction de cela.
 
-[Sémiat Oyénikè OLAÏTAN - Analyste de données](https://www.linkedin.com/in/s%C3%A9miat-oy%C3%A9nik%C3%A8-ola%C3%AFtan-741717196/)
+[Sémiat Oyénikè OLAÏTAN - Développeuse d&#39;applications Web](https://www.linkedin.com/in/s%C3%A9miat-oy%C3%A9nik%C3%A8-ola%C3%AFtan-741717196/)
 ![Sémiat Oyénikè OLAÏTAN - Analyste de données](https://media.licdn.com/dms/image/C4D03AQFKi6rKuUfwdA/profile-displayphoto-shrink_800_800/0/1657687614391?e=1683763200&v=beta&t=i4_HrTE3QNgEMRGcs8EZnB67stM39wO4a435846MvpU)
 
 Quelques minutes on suffit pour choisir de faire l'informatique. Il arrive quelques fois de se demander si l'on n'a pas fait le mauvais choix mais on se rappelle que c'est par amour, par passion que nous le faisons.
@@ -82,7 +82,7 @@ De mon expérience, l'informatique n'est plus autant vu comme un métier d'homme
 [Solange ETSE - Étudiante en Bachelor système d&#39;information](https://www.linkedin.com/in/solange-etse-b3b406213/)
 ![Solange ETSE - Étudiante en Bachelor système d'information](https://media.licdn.com/dms/image/D4E03AQGjbdcwYkvInQ/profile-displayphoto-shrink_800_800/0/1668416709698?e=1683763200&v=beta&t=A-hxikvDkBSpgu2Xa79dErQ5NMz2T9LPxr8HCqkrpN4)
 
-Déjà, en première année nous étions 5 filles, 5 garçons, la différence ne s'est vraiment pas fais ressentir, mais en deuxième année nous n'étions plus que 3. J'ai commencé par ressentir de la différence, je me sentais un tout petit peu isolé. L'impression que les garçons avaient un niveau de compréhension plus rapide par rapport à moi ; l'impression de m'être trompé de filière...
+Déjà, en première année nous étions 5 filles, 5 garçons, la différence ne s'est vraiment pas fais ressentir, mais en deuxième année nous n'étions plus que 3. J'ai commencé par ressentir de la différence, je me sentais un tout petit peu isolé. J'avais l'impression que les garçons avaient un niveau de compréhension plus rapide par rapport à moi ; l'impression de m'être trompé de filière...
 
 Mais un beau jour, je me suis dis : **ce sont mes camarades et s'il y'a un truc qui cloche dans les cours c'est à eux je devrais m'adresser premièrement**. J'ai fait le premier et je n'ai pas regrettée cela. Les autres étaient prêts à m'aider tant qu'ils trouvaient de la motivation chez moi,. Même dans les quelques moments de découragement, mes camarades étaient toujours là. Je me suis sentie utile pour eux, et déjà cette différence que je ressentais avait disparu.
 Le domaine de la technologie est un domaine où on pourrait compter plus sur les filles, mais cela dépends aussi de l'environnement dans laquelle elles sont placées.
