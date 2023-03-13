@@ -37,7 +37,7 @@ En approfondissant ce dernier point, beaucoup de systèmes judiciaires dans le m
 
 Il est assez facile de constater que le manque de diversités conduits à des produits moins inclusifs. Si vous aviez un doute, qu'Apple ait attendu la treizième déclinaison de son système d'exploitation mobile (iOS 13) pour inclure nativement un système de traçage des menstrues pour les femmes devrait finir de vous convaincre ; en même temps, c'est pas comme ci les femmes représentaient près de la moitié (43%) de son marché.
 
-Néanmoins je comprends les développeur·ses car j'en suis un. Il arrive de mettre en place des fonctionnalités qui ne sont utiles qu'à nous même *ou aux gens qui nous ressemblent*. C'est ce que j'appellerais le *biais du développeur* : cette tendance à penser que les utilisateur·rices finaux des solutions nous ressembleront et ont les mêmes aptitudes que nous fassent aux outils technologiques.
+Néanmoins je comprends les développeur·ses car j'en suis un. Il arrive de mettre en place des fonctionnalités qui ne sont utiles qu'à nous même *ou aux gens qui nous ressemblent*. C'est ce que j'appellerais le *biais du développeur* : cette tendance à penser que les utilisateur·rices finaux des solutions nous ressembleront et ont les mêmes aptitudes que nous face aux outils technologiques.
 
 C'est ce même biais qui fait oublier aux développeur·ses que près d'une personne sur trente (1/30) dans le monde présente des déficiences visuelles. Résultat, à peine 10% des sites Web dans le monde sont **accessibles**. Je reste persuadé que ce chiffre serait meilleur, si dans chaque équipe de développeur·ses, il y avait une personne avec une déficience visuelle.
 
