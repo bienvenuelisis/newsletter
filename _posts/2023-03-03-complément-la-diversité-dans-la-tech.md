@@ -35,7 +35,7 @@ En approfondissant ce dernier point, beaucoup de systèmes judiciaires dans le m
 
 ***Moins de diversité égal des produits moins inclusifs***
 
-Il est assez facile de constater que le manque de diversités conduits à des produits moins inclusifs. Si vous aviez un doute, qu'Apple ait attendu la treizième déclinaison de son système d'exploitation mobile (iOS 13) pour inclure nativement un système de traçage des menstrues pour les femmes devrait finir de vous convaincre ; en même temps, c'est pas comme ci les femmes représentaient près de la moitié (43%) de son marché.
+Il est assez facile de constater que le manque de diversités conduits à des produits moins inclusifs. Si vous aviez un doute, qu'Apple ait attendu la treizième déclinaison de son système d'exploitation mobile (iOS 13) pour inclure nativement un système de traçage des menstrues pour les femmes devrait finir de vous convaincre ; en même temps, c'est pas comme si les femmes représentaient près de la moitié (43%) de son marché.
 
 Néanmoins je comprends les développeur·ses car j'en suis un. Il arrive de mettre en place des fonctionnalités qui ne sont utiles qu'à nous même *ou aux gens qui nous ressemblent*. C'est ce que j'appellerais le *biais du développeur* : cette tendance à penser que les utilisateur·rices finaux des solutions nous ressembleront et ont les mêmes aptitudes que nous face aux outils technologiques.
 
@@ -56,9 +56,9 @@ Dans un domaine aussi vaste et diversifié que les métiers de la technologie, q
 [Esther Kangbiete : Ingénieur logiciel | Chef de projet](https://www.linkedin.com/in/kesther/)
 ![Esther Kangbiete](https://media.licdn.com/dms/image/D4E03AQF0A_TzZ3-ONw/profile-displayphoto-shrink_800_800/0/1677775686928?e=1683763200&v=beta&t=Z0ef9xefBXW1vFkgmY22Shh7vD6MRh-WjC0AaR8flxA)
 
-Concernant mon expérience en tant que femme évoluant dans une carrière IT, je peux parler de 3 points: Ce que cette carrière **m'apporte**, **les défis** auxquels je fais face et commence je travaille à **les relever au quotidien**.
+Concernant mon expérience en tant que femme évoluant dans une carrière IT, je peux parler de 3 points: Ce que cette carrière **m'apporte**, **les défis** auxquels je fais face et comment je travaille à **les relever au quotidien**.
 
-Le milieu IT étant sans cesse en évolution offre beaucoup d'opportunité (surtout pour les femmes qui y sont très rares). Pour tout vous dire depuis que j'ai commencé à travaillé, je me suis toujours retrouvé la seule femme développeur dans tous les environnement. Le premier défi que je pourrai citer est le fait qu'on doit sans cesse prouver qu'on mérite notre place en tant que femme dans ce milieu. On reçoit souvent des pics, on veut tout le temps remettre en question nos compétences ou attribuer nos succès au fait qu'on est une femme, ce qui peut être très frustrant.
+Le milieu IT étant sans cesse en évolution offre beaucoup d'opportunité (surtout pour les femmes qui y sont très rares). Pour tout vous dire depuis que j'ai commencé à travailler, je me suis toujours retrouvé la seule femme développeur dans tous les environnement. Le premier défi que je pourrai citer est le fait qu'on doit sans cesse prouver qu'on mérite notre place en tant que femme dans ce milieu. On reçoit souvent des pics, on veut tout le temps remettre en question nos compétences ou attribuer nos succès au fait qu'on est une femme, ce qui peut être très frustrant.
 
 Le deuxième défi que j'ai vécu est qu'on a l'impression que pour survivre dans ses environnements, il faut "*devenir un homme*" pour ne pas se faire écraser (ce qui peut s'avérer être une erreur).
 
@@ -84,8 +84,8 @@ De mon expérience, l'informatique n'est plus autant vu comme un métier d'homme
 
 Déjà, en première année nous étions 5 filles, 5 garçons, la différence ne s'est vraiment pas fais ressentir, mais en deuxième année nous n'étions plus que 3. J'ai commencé par ressentir de la différence, je me sentais un tout petit peu isolé. J'avais l'impression que les garçons avaient un niveau de compréhension plus rapide par rapport à moi ; l'impression de m'être trompé de filière...
 
-Mais un beau jour, je me suis dis : **ce sont mes camarades et s'il y'a un truc qui cloche dans les cours c'est à eux je devrais m'adresser premièrement**. J'ai fait le premier et je n'ai pas regrettée cela. Les autres étaient prêts à m'aider tant qu'ils trouvaient de la motivation chez moi,. Même dans les quelques moments de découragement, mes camarades étaient toujours là. Je me suis sentie utile pour eux, et déjà cette différence que je ressentais avait disparu.
-Le domaine de la technologie est un domaine où on pourrait compter plus sur les filles, mais cela dépends aussi de l'environnement dans laquelle elles sont placées.
+Mais un beau jour, je me suis dis : **ce sont mes camarades et s'il y'a un truc qui cloche dans les cours c'est à eux je devrais m'adresser premièrement**. J'ai fait le premier et je n'ai pas regretté cela. Les autres étaient prêts à m'aider tant qu'ils trouvaient de la motivation chez moi,. Même dans les quelques moments de découragement, mes camarades étaient toujours là. Je me suis sentie utile pour eux, et déjà cette différence que je ressentais avait disparu.
+Le domaine de la technologie est un domaine où on pourrait compter plus sur les filles, mais cela dépends aussi de l'environnement dans lequel elles sont placées.
 Avoir assez de garçons autour de moi, me booste à donner le meilleur de moi même et à me démarquer d'eux. Faire partie des communautés, comme celle de TDev m'as aussi beaucoup aidé à prendre conscience de mon importance et du rôle que je pouvais jouer dans la Tech.
 
 [Fidèle NIKABOU - DESIGNER UI/UX - DÉVELOPPEUR FRONT END](https://www.linkedin.com/in/fid%C3%A8le-nikabou-b79732174/)
