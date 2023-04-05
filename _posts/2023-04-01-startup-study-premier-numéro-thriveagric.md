@@ -4,7 +4,6 @@ title:  "Start-up Edition : Miser sur les petits exploitants et la technologie p
 image: assets/images/posts/avril23/thriveagric.webp
 author: bienvenuelisis
 ---
-
 ## Préambule
 
 L’auto-suffisance alimentaire reste l’un des défis majeurs du continent africain.  Pourtant :
@@ -14,7 +13,7 @@ L’auto-suffisance alimentaire reste l’un des défis majeurs du continent afr
 
 Mais, en 2019 le continent a importé pour plus [de 81 milliards de denrées alimentaires](https://www.statista.com/statistics/1291109/value-of-food-imports-from-africa-by-item/).
 
-La startup nigériane @ThriveAgric et son fondateur **Uka Eje** sont entrain de se donner les moyens et de donner les moyens aux Africains d'atteindre l'auto-suffisance alimentaire.
+La startup nigériane @ThriveAgric, fondé par **Uka Eje** est entrain de se donner les moyens (et aux populations africaines) d'atteindre l'auto-suffisance alimentaire.
 
 ![UKA Eje : CEO et fondateur de @ThriveAgric](https://newsletter.theresilient.dev/assets/images/posts/avril23/uka-eje.jpg)
 
@@ -62,83 +61,79 @@ L'objectif étant de joindre la technologie au réel, pour offrir aux *exploitan
 
 1. Recrutement
 
-    <p align="center">
+   <p align="center">
     <img src="https://newsletter.theresilient.dev/assets/images/posts/avril23/m-onboarding.webp" alt="Étape de recrutement"/>
     </p>
 
-    La ressource la plus importante de la startup, ce sont les agriculteur·rices. Il faut donc bien les choisir et leur fournir les informations nécessaires pour obtenir leurs adhésions au programme. Pour cela, les collaborateur·rice·s de la société se rendent au début de chaque saison agricole auprès des responsables des communautés agricoles locales. Il·elle·s leurs exposent les objectifs de la startup et les solutions et bénéfices pour les agriculteur·rices.
+   La ressource la plus importante de la startup, ce sont les agriculteur·rices. Il faut donc bien les choisir et leur fournir les informations nécessaires pour obtenir leurs adhésions au programme. Pour cela, les collaborateur·rice·s de la société se rendent au début de chaque saison agricole auprès des responsables des communautés agricoles locales. Il·elle·s leurs exposent les objectifs de la startup et les solutions et bénéfices pour les agriculteur·rices.
 
-    ![Étape de recrutement](https://newsletter.theresilient.dev/assets/images/posts/avril23/onboarding.webp)
+   ![Étape de recrutement](https://newsletter.theresilient.dev/assets/images/posts/avril23/onboarding.webp)
 
-    La première étape de l'intégration des agriculteur·rices favorables consiste à recueillir leurs données (nom, lieu, sexe, photos, ...). Il·elle·s leurs sont ensuite rassemblé·e·s en plusieurs groupes par communauté et un·e chef·fe de groupe leur est affecté. Le rôle du·de la responsable de groupe est d'assurer une meilleure gestion, une formation et de faire le lien plus facilement entre les groupes d'agriculteur·rices et les collaborateur·rice·s.
-
+   La première étape de l'intégration des agriculteur·rices favorables consiste à recueillir leurs données (nom, lieu, sexe, photos, ...). Il·elle·s sont ensuite rassemblé·e·s en plusieurs groupes par communauté et un·e chef·fe de groupe leur est affecté. Le rôle du·de la responsable de groupe est d'assurer une meilleure gestion, une formation et de faire le lien plus facilement entre les groupes d'agriculteur·rices et les collaborateur·rice·s.
 2. Intégration
 
-    <p align="center">
+   <p align="center">
     <img src="https://newsletter.theresilient.dev/assets/images/posts/avril23/m-mapping.webp" alt="Étape d'intégration"/>
     </p>
 
-    Chaque agriculteur·rice enrôlé·e passe ensuite par un processus ou sa ferme est cartographiée et ses informations répertoriées. Cette étape permet notamment de déterminer l'étendue et les coordonnées, de chacune de ses terres agricoles. A partir de ces données et d'autres comme la texture du sol, la pente, et la proximité de l'eau, les collaborateur·rice·s peuvent estimer la viabilité de la ferme et proposer des solutions et techniques agricoles adaptées. Cette étape permettre d'établir des plans personnalisés de financement, d'agriculture et de commercialisation des récoltes.
+   Chaque agriculteur·rice enrôlé·e passe ensuite par un processus ou sa ferme est cartographiée et ses informations répertoriées. Cette étape permet notamment de déterminer l'étendue et les coordonnées, de chacune de ses terres agricoles. A partir de ces données et d'autres comme la texture du sol, la pente, et la proximité de l'eau, les collaborateur·rice·s peuvent estimer la viabilité de la ferme et proposer des solutions et techniques agricoles adaptées. Cette étape permet d'établir des plans personnalisés de financement, d'agriculture et de commercialisation des récoltes.
 
-    ![Étape d'intégration](https://newsletter.theresilient.dev/assets/images/posts/avril23/mapping.webp)
-
+   ![Étape d'intégration](https://newsletter.theresilient.dev/assets/images/posts/avril23/mapping.webp)
 3. Financement
 
-    <p align="center">
+   <p align="center">
     <img src="https://newsletter.theresilient.dev/assets/images/posts/avril23/m-distribution.webp" alt="Étape de financement"/>
     </p>
 
-    Les informations recueillies lors de deux étapes précédentes permettent à la start-up de calculer pour chaque agriculteur·rice en fonction d'un facteur de solvabilité, les financements à lui attribuer. Ces financements sont redistribuées aux *exploitants* par l'intermédiaire des responsables de groupe.
+   Les informations recueillies lors de deux étapes précédentes permettent à la start-up de calculer pour chaque agriculteur·rice en fonction d'un facteur de solvabilité, les financements à lui attribuer. Ces financements sont redistribuées aux *exploitants* par l'intermédiaire des responsables de groupe.
 
-    Ils peuvent prendre différentes formes :
-    - Semences améliorées ;
-    - Engrais ;
-    - Produits phytosanitaires (protection des cultures) ;
-    - Et autres types d'intrants.
+   Ils peuvent prendre différentes formes :
 
-    ![Étape de financement](https://newsletter.theresilient.dev/assets/images/posts/avril23/distribution.webp)
+   - Semences améliorées ;
+   - Engrais ;
+   - Produits phytosanitaires (protection des cultures) ;
+   - Et autres types d'intrants.
 
-    Les bénéficiaires ne reçoivent pas ce financement directement en espèces.
+   ![Étape de financement](https://newsletter.theresilient.dev/assets/images/posts/avril23/distribution.webp)
 
+   Les bénéficiaires ne reçoivent pas ce financement directement en espèces.
 4. Surveillance
 
-    <p align="center">
+   <p align="center">
     <img src="https://newsletter.theresilient.dev/assets/images/posts/avril23/m-monitoring.webp" alt="Étape de surveillance"/>
     </p>
 
-    Après la réception des intrants, commence la culture. Des agents de terrain sont alors chargé·e·s, de parcourir les plantations des groupes d'agriculteur·rice·s affiliés, pour :
+   Après la réception des intrants, commence la culture. Des agents de terrain sont alors chargé·e·s, de parcourir les plantations des groupes d'agriculteur·rice·s affiliés, pour :
 
-    - Donner des conseils personnalisés ;
-    - Garantir le respect des meilleures pratiques basées sur les données recueillies au préalable ;
-    - Suivre les progrès jusqu'à la récolte.
+   - Donner des conseils personnalisés ;
+   - Garantir le respect des meilleures pratiques basées sur les données recueillies au préalable ;
+   - Suivre les progrès jusqu'à la récolte.
 
-    ![Étape de surveillance](https://newsletter.theresilient.dev/assets/images/posts/avril23/monitoring.webp)
+   ![Étape de surveillance](https://newsletter.theresilient.dev/assets/images/posts/avril23/monitoring.webp)
 
-    Entre autres, ces agents prennent des photos des plantations, enregistrent les dates de plantation et d'application des engrais. Une trace est alors gardé de toutes activités importantes tout au long de la saison agricole.
-
+   Entre autres, ces agents prennent des photos des plantations, enregistrent les dates de plantation et d'application des engrais. Une trace est alors gardée de toutes activités importantes tout au long de la saison agricole.
 5. Récolte
 
-    <p align="center">
+   <p align="center">
     <img src="https://newsletter.theresilient.dev/assets/images/posts/avril23/m-harvesting.webp" alt="Étape de récolte"/>
     </p>
 
-    Lorsque vient la période de récolte, tou·te·s les agriculteur·rice·s reçoivent les matériaux requis pour la collecte des récoltes. Les produits issus de cette récolte sont ensuite reçus, enregistrés, traités et stockés par les collaborateur·rice·s de @ThriveAgric dans des entrepôts spécialement conçus à cet effet.
+   Lorsque vient la période de récolte, tou·te·s les agriculteur·rice·s reçoivent les matériaux requis pour la collecte des récoltes. Les produits issus de cette récolte sont ensuite reçus, enregistrés, traités et stockés par les collaborateur·rice·s de @ThriveAgric dans des entrepôts spécialement conçus à cet effet.
 
-    ![Étape de récolte](https://newsletter.theresilient.dev/assets/images/posts/avril23/harvesting.webp)
+   ![Étape de récolte](https://newsletter.theresilient.dev/assets/images/posts/avril23/harvesting.webp)
 
-    Les financements reçus sont alors remboursés sous forme d'équivalents calculés sur la valeur sur le marché des différentes types de récoltes. Ces montants sont définis préalablement au moment de la réception des intrants. Le reste de la récolte constitue alors le profit de l'*exploitant agricole* qui lui sera versé sous forme de paiement monétaire.
-
+   Les financements reçus sont alors remboursés sous forme d'équivalents calculés sur la valeur au marché des différentes types de récoltes. Ces montants sont définis préalablement au moment de la réception des intrants. Le reste de la récolte constitue alors le profit de l'*exploitant agricole* qui lui sera versé sous forme de paiement monétaire.
 6. Inventaire & Écoulement
 
-    <p align="center">
+   <p align="center">
     <img src="https://newsletter.theresilient.dev/assets/images/posts/avril23/m-inventory.webp" alt="Étape d'écoulement"/>
     </p>
 
-    Après ces différentes étapes commence une autre non moins périlleuse. Même si les produits sont stockées dans les meilleures conditions garantissant leur pérennité, ils ne peuvent l'être indéfiniment. Le jeu subtil de l'évaluation de l'offre concurrente actuelle et de la demande débute, pour permettre de ne pas saturer le marché et de vendre les récoltes au meilleur prix.
+   Après ces différentes étapes commence une autre non moins périlleuse. Même si les produits sont stockées dans les meilleures conditions garantissant leur pérennité, ils ne peuvent l'être indéfiniment. Le jeu subtil de l'évaluation de l'offre concurrente actuelle et de la demande débute, pour permettre de ne pas saturer le marché et de vendre les récoltes au meilleur prix.
 
-    ![Étape d'écoulement](https://newsletter.theresilient.dev/assets/images/posts/avril23/inventory.webp)
+   ![Étape d'écoulement](https://newsletter.theresilient.dev/assets/images/posts/avril23/inventory.webp)
 
-    En évaluant le meilleur timing, les produits seront écoulés essentiellement auprès des marchés locaux et mondiaux avec lesquels la société a *nourri* au fil des années des relations.
+   En évaluant le meilleur timing, les produits seront écoulés essentiellement auprès des marchés locaux et mondiaux avec lesquels la société a *nourri* au fil des années des relations.
 
 ## Point de bascule
 
@@ -171,7 +166,7 @@ Pour inverser la situation, @ThriveAgric a fait appel à [Adia Sowho](https://ww
 
 ![Adia Sowho, CEO qui a œuvré pour le redressement de @ThriveAgric](https://newsletter.theresilient.dev/assets/images/posts/avril23/adia_sowho.jpg)
 
-Elle s'est attelée à redresser les trois piliers d'une entreprise qui réussit selon les enseignements tirés de son parcours : la **structure**, la **gouvernance** et la **documentation**. Avec l'initiateur du projet **Uka EJE** ils ont redéfini la structuration du plan de financement pour le remboursement des investisseurs particuliers.
+Elle s'est attelée à redresser les trois piliers d'une entreprise qui réussit selon les enseignements tirés de son parcours : la **structure**, la **gouvernance** et la **documentation**. Avec l'initiateur du projet **Uka EJE,** elle redéfini la structuration du plan de financement pour le remboursement des investisseurs particuliers.
 
 Autre chantier, le recrutement de certains profils clés qui manquaient dans la structure de la société. Notablement ont été embauchés un **responsable des risques** et un **directeur financier**. Ces personnes n'ont pas hésité à rejoindre l'entreprise alors que dans le même temps elle se faisait incendier sur les réseaux.
 
@@ -226,6 +221,10 @@ Avec une ambition d'avoir 15 millions d'agriculteurs dans 10 pays d'Afrique d'ic
 5. Favoriser une production et une consommation responsable ;
 6. Réduire les importations de denrées alimentaires de l'Afrique.
 
-L'Afrique est grand. Une seule start-up ne saurait relever ce défi. D'autant qu'en examinant les objectifs d'expansion de @ThriveAgric, ils se limiteront à l'Afrique anglophone avec des pays à fort potentiel économique comme le Kenya, le Ghana, la Zambie ou encore l'Afrique du Sud.
+
+L'Afrique est grand ([ne vous fiez pas aux map monde](https://www.youtube.com/watch?v=elzDUFFGPYA)). Une seule start-up ne saurait relever ce défi. D'autant qu'en examinant les objectifs d'expansion de @ThriveAgric, ils se limiteront à l'Afrique anglophone avec des pays à fort potentiel économique comme le Kenya, le Ghana, la Zambie ou encore l'Afrique du Sud.
 
 Espérons que naîtra d'ici un horizon proche en Afrique francophone une solution similaire. Car selon [les derniers recensements](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS), une vingtaine de pays sur les 54 que compte le continent ont plus de 50% de leur superficie exploitable comme **terre agricole**.
+
+
+Merci de m'avoir lu, sur un sujet qui me tient à cœur. On se retrouve bientôt, pour une autre startup édition ; et je reste très ouvert pour les conseils, reproches et apports sur ce nouveau format.
