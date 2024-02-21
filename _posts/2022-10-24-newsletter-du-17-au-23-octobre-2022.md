@@ -3,6 +3,14 @@ layout: post
 title:  "TikTok, Windows 11, Amazon AppStore & divers."
 image: assets/images/posts/october22/tiktok-adult-live.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [windows, tiktok, amazon]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 ## Actus Techs & Apps
 

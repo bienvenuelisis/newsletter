@@ -3,6 +3,14 @@ layout: post
 title:  "Les licornes Africaines vont plus ou moins bien, L'Ouganda et le Kenya cherchent des solutions contre les fonctionnaires fantômes."
 image: assets/images/posts/mars23/pointage-biometrique.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [licornes, afrique, kenya, ouganda]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 ## Tech en Afrique
 

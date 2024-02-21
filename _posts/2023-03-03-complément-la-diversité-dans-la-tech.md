@@ -3,6 +3,14 @@ layout: post
 title:  "Le manque de diversité dans le monde de la technologie, induit à des produits moins inclusifs au mieux, dangereux au pire."
 image: assets/images/posts/mars23/workforce_diversity.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Dossier ]
+tags: [diversité, égalité, genre]
+description: ""
+featured: true
+premium: true
+hidden: false
+comments: false
 ---
 ## Dossier : Diversité dans le monde de la Tech
 

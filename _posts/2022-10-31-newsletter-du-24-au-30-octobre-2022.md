@@ -3,6 +3,14 @@ layout: post
 title:  "Twitter, App Store, Internet en 2021 & divers."
 image: assets/images/posts/october22/usb-c-iphone.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [twitter, app store, internet]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 # Actus Techs & Apps
 

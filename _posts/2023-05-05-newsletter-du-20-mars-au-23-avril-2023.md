@@ -3,6 +3,14 @@ layout: post
 title:  "L'Afrique n'est plus dernière de la classe, Le Togo veut attirer des investisseurs, Une plainte commune contre TikTok au Sénégal."
 image: assets/images/posts/mai23/investment-africa.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [afrique, financements, togo, tiktok, senegal]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 
 

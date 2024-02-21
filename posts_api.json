@@ -1,0 +1,86 @@
+---
+layout: null
+permalink: /api/
+# newline_to_br - replace each newline (\n) with html break
+# replace - replace each occurrence e.g. {{ 'foofoo' | replace:'foo','bar' }} #=> 'barbar'
+# prepend - prepend a string e.g. {{ 'bar' | prepend:'foo' }} #=> 'foobar'
+# append - append a string e.g. {{ 'foo' | append:'bar' }} #=> 'foobar'
+
+---
+
+
+{
+	"homepage" : "https://newsletter.theresilient.dev/",
+	"version"  : "1",
+	"name": {{ site.title | smartify | jsonify}},
+	"description": "{{ site.description }}",
+	"logo": "{{ site.logo }}",
+	"expired": false,
+	"favicon": "{{ site.favicon }}",
+	"url": "{{ site.baseurl }}",
+	"disqus": "{{ site.disqus }}",
+	"email": "{{ site.email }}",
+	"paginate": "{{ site.paginate }}",
+	"authors": {{ site.authors | jsonify}},
+	"posts" : [{% for post in site.posts %}
+		{
+		"id":"{{post.id | slugify: "latin"}}",
+		"featured":{%if post.featured == nil || post.featured == '' %}false{% else %}{{post.featured}}{% endif %},
+		"premium":{%if post.premium == nil || post.premium == '' %}false{% else %}{{post.premium}}{% endif %},
+		"slug":"{{post.title | slugify}}",
+		"url":"{{site.baseurl}}{{post.url}}",
+		"title":"{{post.title}}",
+		"date":"{{post.date}}",
+		"image":"{{site.baseurl}}/{{post.image}}",
+		"author":{{site.authors[post.author] | jsonify}},
+		"read_time":"{{post.content | number_of_words | divided_by:180 }}",
+		"date_en"     : {
+			"day"   : "{{ post.date | date: "%d" }}",
+			"month" : "{{ post.date | date: "%B" }}",
+			"year"  : "{{ post.date | date: "%Y" }}",
+			"complete"  : "{{ post.date | date: "%B, %d %Y" }}"
+		 },
+		 "date_fr"     : {
+			"day"   : "{{ post.date | date: "%d" }}",
+			"month" : {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}"Janvier"{% when '2' %}"Février"{% when '3' %}"Mars"{% when '4' %}"Avril"{% when '5' %}"Mai"{% when '6' %}"Juin"{% when '7' %}"Juillet"{% when '8' %}"Août"{% when '9' %}"Septembre"{% when '10' %}"Octobre"{% when '11' %}"Novembre"{% when '12' %}"Décembre"{% endcase %},
+			"year"  : "{{ post.date | date: "%Y" }}",
+			"complete"  : "{{ post.date | date: "%d" }} {% assign m = post.date | date: "%-m" %}{% case m %}{% when '1' %}Janvier{% when '2' %}Février{% when '3' %}Mars{% when '4' %}Avril{% when '5' %}Mai{% when '6' %}Juin{% when '7' %}Juillet{% when '8' %}Août{% when '9' %}Septembre{% when '10' %}Octobre{% when '11' %}Novembre{% when '12' %}Décembre{% endcase %} {{ post.date | date: "%Y" }}"
+		 },
+		"category_main" : "{{post.categories | first }}",
+		"categories" : {{post.categories | jsonify }},
+		"tags" : {{post.tags | jsonify }},
+		{%if post.next == nil %}"next" : {}, {% else %}"next" : {
+			"id":"{{post.next.id | slugify: "latin"}}",
+			"slug":"{{post.next.title | slugify}}",
+			"url":"{{site.url}}{{post.next.url}}",
+			"title":"{{post.next.title}}",
+			"image":"{{site.baseurl}}/{{post.next.image}}",
+			"author":{{site.authors[post.next.author] | jsonify}},
+			"read_time":"{{post.next.content | number_of_words | divided_by:180 }}",
+			"date_fr"     : "{{ post.next.date | date: "%B, %d %Y" }}",
+		 	"date_en"     : "{{ post.next.date | date: "%d" }} {% assign m = post.next.date | date: "%-m" %}{% case m %}{% when '1' %}Janvier{% when '2' %}Février{% when '3' %}Mars{% when '4' %}Avril{% when '5' %}Mai{% when '6' %}Juin{% when '7' %}Juillet{% when '8' %}Août{% when '9' %}Septembre{% when '10' %}Octobre{% when '11' %}Novembre{% when '12' %}Décembre{% endcase %} {{ post.next.date | date: "%Y" }}",
+			"category_main" : "{{post.next.categories | first }}",
+			"type":"{{post.next.layout}}",
+			"tags" : {{post.next.tags | jsonify }}
+		}, {% endif %}
+		{%if post.previous == nil %}"previous" : {}, {% else %}"previous" : {
+			"id":"{{post.previous.id | slugify: "latin"}}",
+			"slug":"{{post.previous.title | slugify}}",
+			"url":"{{site.url}}{{post.previous.url}}",
+			"title":"{{post.previous.title}}",
+			"image":"{{site.baseurl}}/{{post.previous.image}}",
+			"author":{{site.authors[post.previous.author] | jsonify}},
+			"read_time":"{{post.previous.content | number_of_words | divided_by:180 }}",
+			"date_fr"     : "{{ post.previous.date | date: "%B, %d %Y" }}",
+		 	"date_en"     : "{{ post.previous.date | date: "%d" }} {% assign m = post.previous.date | date: "%-m" %}{% case m %}{% when '1' %}Janvier{% when '2' %}Février{% when '3' %}Mars{% when '4' %}Avril{% when '5' %}Mai{% when '6' %}Juin{% when '7' %}Juillet{% when '8' %}Août{% when '9' %}Septembre{% when '10' %}Octobre{% when '11' %}Novembre{% when '12' %}Décembre{% endcase %} {{ post.previous.date | date: "%Y" }}",
+			"category_main" : "{{post.previous.categories | first }}",
+			"type":"{{post.previous.layout}}",
+			"tags" : {{post.previous.tags | jsonify }}
+		}, {% endif %}
+		"comments"   : "",
+		"summary":{{post.excerpt | smartify | jsonify }},	
+		"content":{{post.content | jsonify }}
+	} {% unless forloop.last %},{% endunless %}
+	{% endfor %}
+	]
+}

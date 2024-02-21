@@ -3,6 +3,14 @@ layout: post
 title:  "Start-up Edition : Miser sur les petits exploitants et la technologie pour atteindre l'auto-suffisance alimentaire."
 image: assets/images/posts/avril23/thriveagric.webp
 author: bienvenuelisis
+
+categories: [ Newsletter, Start-up Study ]
+tags: [nigeria, startup, thrive agric, agri-tech]
+description: ""
+featured: true
+premium: true
+hidden: false
+comments: false
 ---
 ## Préambule
 
@@ -221,10 +229,8 @@ Avec une ambition d'avoir 15 millions d'agriculteurs dans 10 pays d'Afrique d'ic
 5. Favoriser une production et une consommation responsable ;
 6. Réduire les importations de denrées alimentaires de l'Afrique.
 
-
 L'Afrique est grand ([ne vous fiez pas aux map monde](https://www.youtube.com/watch?v=elzDUFFGPYA)). Une seule start-up ne saurait relever ce défi. D'autant qu'en examinant les objectifs d'expansion de @ThriveAgric, ils se limiteront à l'Afrique anglophone avec des pays à fort potentiel économique comme le Kenya, le Ghana, la Zambie ou encore l'Afrique du Sud.
 
 Espérons que naîtra d'ici un horizon proche en Afrique francophone une solution similaire. Car selon [les derniers recensements](https://data.worldbank.org/indicator/AG.LND.AGRI.ZS), une vingtaine de pays sur les 54 que compte le continent ont plus de 50% de leur superficie exploitable comme **terre agricole**.
-
 
 Merci de m'avoir lu, sur un sujet qui me tient à cœur. On se retrouve bientôt, pour une autre startup édition ; et je reste très ouvert pour les conseils, reproches et apports sur ce nouveau format.

@@ -3,6 +3,14 @@ layout: post
 title:  "TikTop Shop, Satellite Ougandais, Meta, Signal, Mastodon et Zoom."
 image: assets/images/posts/november22/tiktok-shop.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [tiktok, satellite, ouganda, meta, réseaux sociaux, zoom]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 ## Actus Techs & Apps
 

@@ -3,6 +3,14 @@ layout: post
 title:  "Windows 11, Office, Netflix, Truecaller & divers."
 image: assets/images/posts/october22/windows_11_22h2.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [windows, office, netflix]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 
 ## Actus Techs & Apps

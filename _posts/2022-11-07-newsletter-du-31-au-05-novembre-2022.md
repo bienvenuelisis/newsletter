@@ -3,6 +3,14 @@ layout: post
 title:  "Twitter, Google Play PC, DALL-E, WhatsApp Communities & divers."
 image: assets/images/posts/november22/whatsapp-communities.png
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [twitter, google play, whatsapp]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 ## Actus Techs & Apps
 

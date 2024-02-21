@@ -3,6 +3,14 @@ layout: post
 title:  "OpenAI et la modération de GPTChat, le Bénin lance son programme d'IA."
 image: assets/images/posts/janvier23/open-ai-kenya-moderators.webp
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [open ai, chatgpt, benin, ia]
+description: ""
+featured: true
+premium: false
+hidden: false
+comments: false
 ---
 ## Dossier : OpenAI et la modération des réponses de GPTChat
 

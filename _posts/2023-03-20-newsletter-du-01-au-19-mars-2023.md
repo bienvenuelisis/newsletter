@@ -3,6 +3,14 @@ layout: post
 title:  "Samuel Achilefu invente des lunettes capables de repérer les cellules cancéreuses, la faillite de SVB va impacter des start-up Africaines."
 image: assets/images/posts/mars23/samuel-achilefu.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [svb, samuel achilefu, scientifique, afrique, start-ups]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 ## Dossier : Samuel Achilefu invente des lunettes capables de repérer les cellules cancéreuses
 

@@ -3,6 +3,14 @@ layout: post
 title:  "USB-C, Pixel 7, Google Cloud & divers."
 image: assets/images/posts/october22/apple-usb-c.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [usb-c, google, cloud]
+description: ""
+featured: false
+premium: false
+hidden: false
+comments: false
 ---
 
 **Techs & Apps :**

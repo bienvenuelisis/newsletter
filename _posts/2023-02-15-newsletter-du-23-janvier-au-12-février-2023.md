@@ -3,6 +3,14 @@ layout: post
 title:  "Jumia inquiète, pendant qu'une nouvelle licorne africaine naît."
 image: assets/images/posts/fevrier23/jumia-driver.jpg
 author: bienvenuelisis
+
+categories: [ Newsletter, Actualités ]
+tags: [jumla, licorne, afrique]
+description: ""
+featured: true
+premium: false
+hidden: false
+comments: false
 ---
 
 ## Dossier :  Jumia, faut-il s'inquiéter pour l'Amazon de l'Afrique ?
