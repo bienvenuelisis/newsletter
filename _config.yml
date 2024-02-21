@@ -2,8 +2,8 @@ title: "Tech & Africa Start-ups"
 description: "Résumé de l'actualité technologique, avec une loupe sur l'Afrique et sur son écosystème de start-ups."
 email: agbavonbienvenu@gmail.com
 timezone: "Africa/Lome"
-# baseurl: ""
-baseurl: "https://newsletter.theresilient.dev/"
+baseurl: ""
+# baseurl: "https://newsletter.theresilient.dev/"
 permalink: "/:year/:month/:day"
 logo: 'assets/icons/logo.png'
 favicon: 'assets/icons/favicon.ico'

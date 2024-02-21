@@ -7,7 +7,7 @@ author: bienvenuelisis
 categories: [ Newsletter, Start-up Study ]
 tags: [nigeria, startup, thrive agric, agri-tech]
 description: ""
-featured: true
+featured: false
 premium: true
 hidden: false
 comments: false

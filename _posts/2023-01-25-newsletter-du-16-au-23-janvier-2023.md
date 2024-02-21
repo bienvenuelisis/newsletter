@@ -7,7 +7,7 @@ author: bienvenuelisis
 categories: [ Newsletter, Actualités ]
 tags: [open ai, chatgpt, benin, ia]
 description: ""
-featured: true
+featured: false
 premium: false
 hidden: false
 comments: false

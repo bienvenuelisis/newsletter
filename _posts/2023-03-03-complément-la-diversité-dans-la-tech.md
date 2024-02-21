@@ -7,7 +7,7 @@ author: bienvenuelisis
 categories: [ Newsletter, Dossier ]
 tags: [diversité, égalité, genre]
 description: ""
-featured: true
+featured: false
 premium: true
 hidden: false
 comments: false

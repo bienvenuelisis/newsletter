@@ -7,12 +7,11 @@ author: bienvenuelisis
 categories: [ Newsletter, Actualités ]
 tags: [jumla, licorne, afrique]
 description: ""
-featured: true
+featured: false
 premium: false
 hidden: false
 comments: false
 ---
-
 ## Dossier :  Jumia, faut-il s'inquiéter pour l'Amazon de l'Afrique ?
 
 ***Après plus de 10 ans d'existence, la première licorne d'Afrique n'est toujours pas rentable. Jusqu'à quand peut elle continuer d'absorber ses pertes ?***
