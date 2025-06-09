@@ -10,7 +10,7 @@ permalink: /api/
 
 
 {
-	"homepage" : "https://newsletter.theresilient.dev/",
+	"homepage" : "https://bienvenuelisis.github.io/newsletter/",
 	"version"  : "1",
 	"name": {{ site.title | smartify | jsonify}},
 	"description": "{{ site.description }}",
